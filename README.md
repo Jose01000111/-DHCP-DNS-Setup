@@ -1,4 +1,4 @@
-# Day 4 Lab: 🧮 DHCP & 🌐 DNS Setup
+# Day 3 Lab: 🧮 DHCP & 🌐 DNS Setup
 
 ---
 
